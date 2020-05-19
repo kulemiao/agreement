@@ -3,6 +3,10 @@
         "apps": [],
         "details": [
             {
+                "appID": "6T9LLJKSM4.com.baidu.youavideo-ci",
+                "paths": [ "*", "/app/*", "/qq_conn/101861058/*" ]
+            },
+            {
                 "appID": "46HH3VM6G9.com.baidu.youavideo-dev",
                 "paths": [ "*", "/app/*", "/qq_conn/101861058/*" ]
             },
@@ -11,7 +15,11 @@
                 "paths": [ "*", "/app/*", "/qq_conn/101861058/*" ]
             },
             {
-                "appID": "6T9LLJKSM4.com.baidu.youavideo-ci",
+                "appID": "B83JBVZ6M5.com.baidu.youavideo-debug",
+                "paths": [ "*", "/app/*", "/qq_conn/101861058/*" ]
+            },
+            {
+                "appID": "B83JBVZ6M5.com.baidu.youavideo",
                 "paths": [ "*", "/app/*", "/qq_conn/101861058/*" ]
             }
         ]
